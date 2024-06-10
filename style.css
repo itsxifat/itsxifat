@@ -1,0 +1,23 @@
+body {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+    background-color: rgb(226, 201, 168);
+    color: rgb(234, 75, 109);
+    
+}
+
+h1 {  
+  align-items: center;
+  background-color: rgb(214, 143, 143);
+  color: beige;
+  height: 100px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}

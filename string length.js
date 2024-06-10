@@ -1,4 +1,4 @@
-let str = 'sifat'
+let str = "sifat";
 
 console.log(str.length);
 
